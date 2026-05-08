@@ -62,7 +62,7 @@
 
 <div align="center">
 
-> *"Success is the sum of small efforts, repeated day in and day out."* 🚀
+> *"Success is the sum of small efforts, repeated day in and day out."* 
 
 </div>
 
