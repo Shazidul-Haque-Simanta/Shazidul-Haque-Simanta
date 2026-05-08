@@ -34,15 +34,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sdshazid&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shazidul-Haque-Simanta&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sdshazid&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shazidul-Haque-Simanta&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdshazid&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shazidul-Haque-Simanta&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sdshazid&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shazidul-Haque-Simanta&theme=algolia&no-frame=true&row=1&column=7" />
 
 </div>
 
